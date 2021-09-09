@@ -3,7 +3,7 @@
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
 ### నమస్తే (Namaste)🙏🏻, I am Mahesh Babu R 👋
 
-- 🎯 Portfolio website: [Portfolio](https://maheshbabu.github.io/)
+- 🎯 Portfolio website: <a href="https://github.com/maheshbabu-r/Resume/raw/main/Mahesh%20Babu%20R%20_Resume.pdf">[Portfolio]</a>
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
