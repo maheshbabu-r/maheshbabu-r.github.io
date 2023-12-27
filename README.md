@@ -2,7 +2,7 @@
 
 # నమస్తే (Namaste)🙏🏻, I am Mahesh Babu R 👋
 
-<p>Seasoned IGA Associate with 2.5 years of expertise in Saviynt, specializing in end-to-end application onboarding, provisioning, and reconciliation. Advanced skills include workflows, actionable analytics, and customization, with a proven track record of enhancing security and compliance through effective implementation and support of Saviynt functionalities.</p>
+<p>Seasoned IGA Associate with 2+ years of expertise in Saviynt, specializing in end-to-end application onboarding, provisioning, and reconciliation. Advanced skills include workflows, actionable analytics, and customization, with a proven track record of enhancing security and compliance through effective implementation and support of Saviynt functionalities.</p>
   <p>Proficient in troubleshooting and supporting Saviynt, along with very good knowledge of SQL and Python for data analysis using Saviynt Data Loader.</p>
   
 ## Things I love:
@@ -14,7 +14,7 @@
 - Data Science 😬
 
 - 🎯 Portfolio Download: <a href="https://raw.githubusercontent.com/maheshbabu-r/Resume/blob/main/Mahesh_Babu_R.pdf">[Portfolio]</a>
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about anything, I am happy to help 🙂
 - 📬 How to reach me: Let's get in touch! ➡️ <a href="https://www.linkedin.com/in/maheshbabu1/">[linkedin]</a>
 
 ### Languages and Tools: 
