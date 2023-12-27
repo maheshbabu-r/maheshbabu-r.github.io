@@ -14,7 +14,7 @@
 - Machine Learning 🧐
 - Data Science 😬
 
-- 🎯 Portfolio Download: <a href="https://github.com/maheshbabu-r/Resume/blob/main/Mahesh_Babu_R.pdf">[Portfolio]</a>
+- 🎯 Portfolio Download: <a href="https://raw.githubusercontent.com/maheshbabu-r/Resume/blob/main/Mahesh_Babu_R.pdf">[Portfolio]</a>
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Let's get in touch! ➡️ <a href="https://www.linkedin.com/in/maheshbabu1/">[linkedin]</a>
 
