@@ -1,6 +1,5 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
 # నమస్తే (Namaste)🙏🏻, I am Mahesh Babu R 👋
 
 <p>Seasoned IGA Associate with 2.5 years of expertise in Saviynt, specializing in end-to-end application onboarding, provisioning, and reconciliation. Advanced skills include workflows, actionable analytics, and customization, with a proven track record of enhancing security and compliance through effective implementation and support of Saviynt functionalities.</p>
@@ -27,21 +26,3 @@
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br>
-<br>
-
-### Github Stats
-
-<p>
-    <a href="https://gitstats.me/maheshbabu-r" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=maheshbabu-r&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-</p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-<!--[website]: -->
-[linkedin]:
