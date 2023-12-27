@@ -16,7 +16,7 @@
 
 - 🎯 Portfolio Download: <a href="https://github.com/maheshbabu-r/Resume/blob/main/Mahesh_Babu_R.pdf">[Portfolio]</a>
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: Let's get in touch! ➡️ <a href="https://www.linkedin.com/in/maheshbabu1/">[linkedin]</a>
 
 ### Languages and Tools: 
 <img align="left" alt="Saviynt" width="50px" src="https://avatars.githubusercontent.com/u/148326354?s=200&v=4" />
@@ -44,4 +44,4 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/maheshbabu1/
+[linkedin]:
